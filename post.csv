@@ -1,0 +1,36 @@
+postID,posterID,classID,title,postDate,text
+cs377f21_1,bSZa17FK2l,cs377f21,Question 1 Clarification,2021-09-05 16:30,Are we to find countries who have won no medals and report all the last names associated with them or find the last names of all athletes who have no medals?
+cs377f21_2,A1Kcf8Z1u3,cs377f21,Assignment 1 Graded,2021-10-01 7:30,The grades for assignment 1 are on Gradescope. Please see today's slides for the regrade request policy.
+cs377f21_3,ize3lkeNiR,cs377f21,Assignment 1 Graded,2021-10-01 7:30,How do we setup the Yelp Server?
+cs377f21_4,Xo3aGKAsfE,cs377f21,Conceptual question - relational state vs relational schema,2021-09-05 10:15,Is there a difference between the two?
+cs377f21_5,A1Kcf8Z1u3,cs377f21,Assignment 1 Graded,2021-10-15 7:25,The grades for assignment 2 are on Canvas. Please see the assignment2_rubric.xlsx file for more details.
+cs377f21_6,fk7USWbA60,cs377f21,HW3 Q2,2021-10-09 8:30,Can we assume each city has a distance name?
+cs377f21_7,bSZa17FK2l,cs377f21,HW3,2021-10-15 7:48,Are we allowed to create a tempory table to hold intermediate results?
+cs377f21_8,A1Kcf8Z1u3,cs377f21,Assignment 4 Graded,2021-10-01 7:30,The grades for assignment 1 are on Gradescope. Please see today's slides for the regrade request policy.
+cs377f21_9,,cs377f21,,,
+cs171f21_1,8uv1aK9btU,cs171f21,We've had some great questions during office hours. Here are some FAQ for anyone that might have the same questions. If you resubmit an assignment don't worry about the added number. If you are worried that your code will not compile on our end; test it out by downloading your submitted code on Canvas and trying to compile it again.,2021-09-14 11:45,We've had some great questions during office hours. Here are some FAQ for anyone that might have the same questions. If you resubmit an assignment don't worry about the added number. If you are worried that your code will not compile on our end; test it out by downloading your submitted code on Canvas and trying to compile it again.
+cs171f21_2,wUSNkrt2i7,cs171f21,Do we have to shuffle the deck at any point?,2021-10-01 14:35,Do we have to shuffle the deck at any point?
+cs171f21_3,AyZm6kgtLQ,cs171f21,When exactly do we make the ace a 1 v.s. an 11? Is the rule always to make it an 11 unless it would bust the hand? And what if the first two cards are aces do we make one 1 and the other 11?,2021-10-01 19:01,When exactly do we make the ace a 1 v.s. an 11? Is the rule always to make it an 11 unless it would bust the hand? And what if the first two cards are aces do we make one 1 and the other 11?
+cs171f21_4,qBhsb9AT1D,cs171f21,I'm a bit stumped on how to explore all the possible next moves for the knight whilst also pushing the new boards to the stack. How do I know that a move is legal?,2021-10-14 11:30,I'm a bit stumped on how to explore all the possible next moves for the knight whilst also pushing the new boards to the stack. How do I know that a move is legal?
+cs171f21_5,loWO7ep40W,cs171f21,The name of my file on canvas changed to KnightTour-1 after I resubmitted it and I just wanted to double check that this will not affect the testing of my code.Ê,2021-10-16 8:37,The name of my file on canvas changed to KnightTour-1 after I resubmitted it and I just wanted to double check that this will not affect the testing of my code.Ê
+cs171f21_6,AyZm6kgtLQ,cs171f21,When we throw an exception does it need to stop the program immediately?,2021-10-31 16:35,When we throw an exception does it need to stop the program immediately?
+cs171f21_7,,cs171f21,,,
+cs377s21_1,qjAClhRo8T,cs377s21,RA operation,2021-02-04 3:45,What does the bowtie symbol mean?
+cs377s21_2,I8k5HwpLlU,cs377s21,Midterm content,2021-04-09 19:13,What will be covered on the midterm?
+cs377s21_3,cp5asEx6KR,cs377s21,SQL server,2021-03-21 4:28,How do we install PostGresSQL on our local machine?
+cs377s21_4,AnRRwDoMFm,cs377s21,GROUP BY query,2021-03-29 4:47,Does it matter where GROUP BY is located?
+cs377s21_5,l8Ck5AEii7,cs377s21,Regrade request,2021-04-25 6:10,How do we submit a regrade request for the midterm?
+cs377s21_6,nlNo3Ifie2,cs377s21,Week 10 Prep,2021-04-10 12:31,Canvas is not allowing me to submit the weekly prep quiz. What should I do?
+cs377s21_7,fe20lUruvB,cs377s21,Week 11 Prep,2021-04-17 12:31,Does anybody have a link to the Google Cloud Platform?
+cs377s21_8,EIBGkZJ8LU,cs377s21,Final content,2021-05-01 5:40,What will be covered on the final?
+cs377s21_9,I8k5HwpLlU,cs377s21,Database normalization,2021-04-26 1:32,What is the difference between 2NF and 3NF?
+cs171f20_1,8uv1aK9btU,cs171f20,Java IDE,2020-09-15 6:53,Does anybody have any suggestions about a good IDE to use?
+cs171f20_2,WVztzxaqG1,cs171f20,Runtime,2020-10-13 22:39,My runtimes are larger than what is in the sample runtimes.txt file. Will I lose points?
+cs171f20_3,lKOmgoDP5M,cs171f20,Trouble with delete,2020-10-28 5:19,My delete in the double-ended link list isn't working. It deletes the entire list!
+cs171f20_4,pAA8hhbaAf,cs171f20,Shuffling for Quicksort,2020-11-12 8:59,What is the best way to shuffle an array at the start of quicksort?
+cs171f20_5,bCSKEQsp82,cs171f20,BST item deletion,2020-11-28 3:35,How do you delete if it's not the min or max value?
+cs377s20_1,WJrWAidLZ5,cs377s20,Music Industry database Trouble,2020-02-28 5:50,I am trying to create a local copy of the database but it takes an absurdly long time. What should I do?
+cs377s20_2,tmt3aPs20s,cs377s20,Java GUI,2020-04-01 0:30,Does it matter if my GUI is ugly?
+cs377s20_3,PiQvBSPut9,cs377s20,JDK version,2020-04-02 14:24,Which JDK version should we be using?
+cs377s20_4,tmt3aPs20s,cs377s20,Sample midterms,2020-04-10 13:02,Are there sample midterm exams?
+cs377s20_5,PiQvBSPut9,cs377s20,Sample final exams,2020-05-01 2:08,Are there solutions for the sample final exams?
